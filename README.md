@@ -1,0 +1,2 @@
+# VaccineAppointmentGenerator
+generating VaccAppointment with Selenium
