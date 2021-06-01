@@ -1,0 +1,52 @@
+68163 Mannheim, Maimarkthalle
+69123 Heidelberg, Gesellschaftshaus Pfaffengrund
+69124 Heidelberg, Zentrales Impfzentrum Heidelberg - Commissary Patrick-Henry-Village
+69469 Weinheim, Kreisimpfzentrum Weinheim - 3-Glocken-Center
+70174 Stuttgart, Impfzentrum Klinikum Stuttgart in der Liederhalle (Hegel-Saal)
+70376 Stuttgart, Impfzentrum am Robert-Bosch-Krankenhaus
+70629 Leinfelden-Echterdingen, KIZ Messe Stuttgart (Landkreis Esslingen)
+71065 Sindelfingen , KIZ Böblingen
+71297 Mönsheim, KIZ Enzkreis - Appenbergsporthalle
+71334 Waiblingen, Kreisimpfzentrum Waiblingen
+71636 Ludwigsburg, Impfzentrum Ludwigsburg
+72072 Tübingen, Paul Horn Arena
+72213 Altensteig-Wart, KiZ Kreis Calw
+72280 Dornstetten, Kreisimpfzentrum Landkreis Freudenstadt
+72469 Meßstetten, Kreisimpfzentrum Zollernalbkreis
+72762 Reutlingen, Stadion an der Kreuzeiche
+73037 Göppingen, Werfthalle im Stauferpark
+73430 Aalen, KIZ Ostalbkreis
+73730 Stadt Esslingen am Neckar, KIZ Esslingen
+74081 Heilbronn, Kreisimpfzentrum Heilbronn
+74360 Ilsfeld-Auenstein, Kreisimpfzentrum Landkreis Heilbronn
+74549 Wolpertshausen, KIZ Wolpertshausen
+74585 Rot am See, ZIZ Rot am See
+74613 Öhringen, Kreisimpfzentrum Hohenlohekreis
+74821 Mosbach, Kreisimpfzentrum Mosbach
+74889 Sinsheim, Kreisimpfzentrum Sinsheim - Parsa-Halle
+75056 Sulzfeld, Kreisimpfzentrum Sulzfeld
+75175 Pforzheim, Kreisimpfzentrum Pforzheim
+76137 Karlsruhe, Kreisimpfzentrum Schwarzwaldhalle Karlsruhe
+76287 Rheinstetten, Impfzentrum Messe Karlsruhe
+76530 Baden-Baden, KIZ Kurhaus Baden-Baden
+76646 Bruchsal-Heidelsheim, Kreisimpfzentrum Bruchsal
+77656 Offenburg, Messe Offenburg-Ortenau, Halle 1
+77815 Bühl, Kreisimpfzentrum Landkreis Rastatt in Bühl
+77933 Lahr / Schwarzwald, KIZ Lahr - Rheintalhalle Lahr
+78056 Villingen-Schwenningen, Landratsamt Schwarzwald-Baar-Kreis
+78224 Singen (Hohentwiel), Kreisimpfzentrum Singen (Kreis Konstanz)
+78532 Tuttlingen, Kreisimpfzentrum Landkreis Tuttlingen
+78628 Rottweil, Kreisimpfzentrum Rottweil, Stadthalle
+79108 Freiburg im Breisgau, Zentrales Impfzentrum (ZIZ) Freiburg, Messe Freiburg, Messehalle 2
+79341 Kenzingen, Kreisimpfzentrum Emmendingen
+79379 Müllheim, Kreisimpfzentrum Müllheim
+79541 Lörrach, KIZ Lörrach - Impulsivcenter Lörrach
+79761 Waldshut-Tiengen, Kreisimpfzentrum Landkreis Waldshut
+88045 Friedrichshafen, Kreisimpfzentrum Bodenseekreis
+88212 Ravensburg, Oberschwabenhalle Kreisimpfzentrum Ravensburg
+88367 Hohentengen, Kreisimpfzentrum Landkreis Sigmaringen
+88444 Ummendorf, Kreisimpfzentrum Ummendorf (Landkreis Biberach)
+89073 Ulm, Zentrales Impfzentrum Ulm
+89522 Heidenheim, Congress Centrum Heidenheim
+89584 Ehingen (Donau), Kreisimpfzentrum Ehingen (Donau)
+97980 Bad Mergentheim, Kreisimpfzentrum Main-Tauber-Kreis
