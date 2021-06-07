@@ -13,7 +13,7 @@ class Driver:
 
     def acceptcookies(self):
         try:
-            ac = WebDriverWait(self.d, 6).until(EC.presence_of_element_located(
+            ac = WebDriverWait(self.d, 4).until(EC.presence_of_element_located(
                 (By.LINK_TEXT, "AUSWAHL BESTÄTIGEN")))
             ac.click()
         except:
@@ -21,7 +21,8 @@ class Driver:
 
     def opentabs(self):
         # find selections for Bundeslaender and vacc centers
-        selections = WebDriverWait(self.d, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "selection")))
+        selections = WebDriverWait(self.d, 10).until(EC.presence_of_element_located(
+            (By.CLASS_NAME, "selection")))
 
         # holds the right indexes for the wanted vacc centers
         vacccentersindexlist = [12, 36, 37, 38, 39, 40]
@@ -39,17 +40,20 @@ class Driver:
 
             # choose BW as Bundesland
             selections[0].click()
-            blnder = WebDriverWait(self.d, 10).until((EC.presence_of_all_elements_located((By.TAG_NAME, "li"))))
+            blnder = WebDriverWait(self.d, 10).until((EC.presence_of_all_elements_located(
+                (By.TAG_NAME, "li"))))
             blnder[1].click()
 
             # choose Impfzentren
             selections[1].click()
-            vacccenters = WebDriverWait(self.d, 10).until(EC.presence_of_all_elements_located((By.TAG_NAME, "li")))
+            vacccenters = WebDriverWait(self.d, 10).until(EC.presence_of_all_elements_located(
+                (By.TAG_NAME, "li")))
             vacccenters[vacccentersindexlist[centerindex]].click()
             centerindex = centerindex + 1
 
             # click submitbtn
-            buttons = WebDriverWait(self.d, 10).until(EC.presence_of_all_elements_located((By.TAG_NAME, "button")))
+            buttons = WebDriverWait(self.d, 10).until(EC.presence_of_all_elements_located(
+                (By.TAG_NAME, "button")))
             submitbtn = buttons[1]
             submitbtn.click()
 
@@ -65,7 +69,7 @@ class Driver:
         h1ofwaitingroom = "Virtueller Warteraum des Impfterminservice"
         h1ofcoderoom = "Wurde Ihr Anspruch auf eine Corona-Schutzimpfung bereits geprüft?"
         while True:
-            time.sleep(3)
+            self.acceptcookies()
             tapindex = self.controltapindex(tapindex)
             self.d.switch_to.window(self.d.window_handles[tapindex])
             h1 = WebDriverWait(self.d, 10).until(EC.presence_of_element_located(
